@@ -1,0 +1,2 @@
+# The first stage deliberately has no third-party dependencies.
+# Add packages only when a verified integration needs them.
